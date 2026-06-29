@@ -1,0 +1,106 @@
+export const arrivals = [
+  {
+    id: 1,
+    category: "Arrivals Collection",
+    name: "Fashion Collection 1", // FIXED: Standardized from 'title' to 'name'
+    price: 2999,
+    originalPrice: 3999,
+    discount: "25% OFF",
+    image: "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800",
+    images: ["https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800"],
+    video: "",
+    description: "Beautiful latest fashion collection bringing forward highly breathable summer weaves and fluid falls.",
+    details: ["Premium Fluid Geometry", "Ultra-lightweight Stitching", "Breathable Day-wear Blend"]
+  },
+  {
+    id: 2,
+    category: "Arrivals Collection",
+    name: "Fashion Collection 2",
+    price: 3499,
+    originalPrice: 4499,
+    discount: "22% OFF",
+    image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800",
+    images: ["https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800"],
+    video: "",
+    description: "Premium stylish outfit meticulously tailored to offer a crisp, modern street silhouette profile.",
+    details: ["Tailored Slim Profile", "Reinforced Seam Lines", "Premium Texturing Canvas"]
+  },
+  {
+    id: 3,
+    category: "Arrivals Collection",
+    name: "Fashion Collection 3",
+    price: 2799,
+    originalPrice: 3499,
+    discount: "20% OFF",
+    image: "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=800",
+    images: ["https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=800"],
+    video: "",
+    description: "New arrival trending wear integrating minimal luxury hues with functional urban utility layers.",
+    details: ["Minimalist Tone Layout", "Functional Drop-Cut Architecture", "Easy Lounge Adaptability"]
+  },
+  {
+    id: 4,
+    category: "Arrivals Collection",
+    name: "Fashion Collection 4",
+    price: 4199,
+    originalPrice: 5499,
+    discount: "24% OFF",
+    image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+    images: ["https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800"],
+    video: "",
+    description: "Luxury edition collection presenting deep textile values and a striking structural silhouette statement.",
+    details: ["High Thread-Count Fabric", "Statement Structural Draping", "Limited Edition Monogramming"]
+  },
+  {
+    id: 5,
+    category: "Arrivals Collection",
+    name: "Fashion Collection 5",
+    price: 3299,
+    originalPrice: 4199,
+    discount: "21% OFF",
+    image: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800",
+    images: ["https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800"],
+    video: "",
+    description: "Elegant premium fashion style engineered precisely for high-profile celebratory casual layouts.",
+    details: ["Polished Formal Silhouette", "Soft Inner Viscose Lining", "High Color-Retention Rating"]
+  },
+  {
+    id: 6,
+    category: "Arrivals Collection",
+    name: "Fashion Collection 6",
+    price: 2499,
+    originalPrice: 3299,
+    discount: "24% OFF",
+    image: "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800",
+    images: ["https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800"],
+    video: "",
+    description: "Modern casual wear collection providing relaxed-fit utility blueprints for dynamic everyday styling.",
+    details: ["Relaxed Structural Droop", "Wrinkle-Resistant Finish", "Dual Inset Cargo Slots"]
+  },
+  {
+    id: 7,
+    category: "Arrivals Collection",
+    name: "Fashion Collection 7",
+    price: 5299,
+    originalPrice: 6999,
+    discount: "24% OFF",
+    image: "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=800",
+    images: ["https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=800"],
+    video: "",
+    description: "Exclusive designer fashion showcasing asymmetrical cuts and specialized high-tier couture definitions.",
+    details: ["Artisanal Couture Draping", "Asymmetrical Modern Cuts", "Signature Finish Seam Work"]
+  },
+  {
+    id: 8,
+    category: "Arrivals Collection",
+    name: "Fashion Collection 8",
+    price: 3999,
+    originalPrice: 4999,
+    discount: "20% OFF",
+    image: "https://images.unsplash.com/photo-1495385794356-15371f348c31?w=800",
+    images: ["https://images.unsplash.com/photo-1495385794356-15371f348c31?w=800"],
+    video: "",
+    description: "Stylish luxury collection framing classic vintage graphics onto hyper-modern canvas templates.",
+    details: ["Vintage-Graphic Adaptation", "Hyper-Modern Canvas Base", "Comfort Retaining Stretch Zones"]
+  }
+];
